@@ -20,7 +20,7 @@ _Organize ideas and collaborate using Markdown, a lightweight language for text 
   Link to docs.github.com for further explanations.
   Encourage users to open new tabs for steps!
 -->
-
+# Header
 ## Step 1: Add headers
 
 _Welcome to "Communicate using Markdown"! :wave:_
@@ -79,3 +79,5 @@ Get help: [Post in our discussion board](https://github.com/skills/.github/discu
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+added "# Header" to file for challenge
